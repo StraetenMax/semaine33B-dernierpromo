@@ -47,5 +47,10 @@
         </mj-column>
       </mj-group>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/illustration1.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
