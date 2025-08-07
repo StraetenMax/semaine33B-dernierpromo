@@ -75,5 +75,67 @@
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Economisez jusqu'à 35% sur cette sélection de produits</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text>Le meilleur WiFi, partout chez vous, en toute simplicité</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/rbk752.jpg" alt=""/>
+        <mj-text>Système Mesh Orbi</mj-text>
+        <mj-text>WiFi 6 Tri-band AX4200</mj-text>
+        <mj-text>Jusqu'à 350 m2 (RBK752)</mj-text>
+        <mj-text>499.99€ 379.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/rbk753.jpg" alt=""/>
+        <mj-text>Système Mesh Orbi</mj-text>
+        <mj-text>WiFi 6 Tri-band AX4200</mj-text>
+        <mj-text>Jusqu'à 525 m2 (RBK753)</mj-text>
+        <mj-text>699.99€ 559.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Paramètrez votre WiFi comme vous le souhaitez</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/rax43.jpg" alt=""/>
+        <mj-text>Routeur Nighthawk WiFi 6</mj-text>
+        <mj-text>AX4200 (RAX43)</mj-text>
+        <mj-text>229.99€ 149.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/rax40.jpg" alt=""/>
+        <mj-text>Routeur Nighthawk WiFi 6</mj-text>
+        <mj-text>AX3000 (RAX40)</mj-text>
+        <mj-text>199.99€ 149.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Etendez le WiFi de votre box</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/ex7700.jpg" alt=""/>
+        <mj-text>Répéteur WiFi Mesh Tri-band</mj-text>
+        <mj-text>AC2200 (EX7700)</mj-text>
+        <mj-text>114.99€ 89.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/ex7300.jpg" alt=""/>
+        <mj-text>Répéteur WiFi Mesh Dual-band</mj-text>
+        <mj-text>AC2200 (EX7300)</mj-text>
+        <mj-text>94.99€ 74.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
