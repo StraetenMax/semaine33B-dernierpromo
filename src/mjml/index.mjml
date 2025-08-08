@@ -47,9 +47,9 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0" mj-class="bgW">
       <mj-column>
-        <mj-image src="./images/illustration1.jpg" alt=""/>
+        <mj-image padding="0" width="700px" src="./images/illustration1.jpg" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section>
