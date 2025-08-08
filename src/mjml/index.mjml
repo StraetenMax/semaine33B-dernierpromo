@@ -62,16 +62,16 @@
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/mr1100.jpg" alt=""/>
-        <mj-text padding="0" align="center">Routeur Mobile 4G</mj-text>
-        <mj-text padding="0" align="center">Gbit/s (MR1100)</mj-text>
-        <mj-text padding="0" align="center">309.99€ 279.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Routeur Mobile 4G</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Gbit/s (MR1100)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">309.99€ 279.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/ac810.jpg" alt=""/>
-        <mj-text padding="0" align="center">Hotspot Mobile 4G</mj-text>
-        <mj-text padding="0" align="center">600 Mbps (AC810)</mj-text>
-        <mj-text padding="0" align="center">219.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Hotspot Mobile 4G</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">600 Mbps (AC810)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">219.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
