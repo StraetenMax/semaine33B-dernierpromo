@@ -84,18 +84,18 @@
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk752.jpg" alt=""/>
-        <mj-text padding="0" align="center">Système Mesh Orbi</mj-text>
-        <mj-text padding="0" align="center">WiFi 6 Tri-band AX4200</mj-text>
-        <mj-text padding="0" align="center">Jusqu'à 350 m2 (RBK752)</mj-text>
-        <mj-text padding="0" align="center">499.99€ 379.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">WiFi 6 Tri-band AX4200</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Jusqu'à 350 m2 (RBK752)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">499.99€ 379.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk753.jpg" alt=""/>
-        <mj-text padding="0" align="center">Système Mesh Orbi</mj-text>
-        <mj-text padding="0" align="center">WiFi 6 Tri-band AX4200</mj-text>
-        <mj-text padding="0" align="center">Jusqu'à 525 m2 (RBK753)</mj-text>
-        <mj-text padding="0" align="center">699.99€ 559.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">WiFi 6 Tri-band AX4200</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Jusqu'à 525 m2 (RBK753)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">699.99€ 559.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
@@ -105,16 +105,16 @@
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rax43.jpg" alt=""/>
-        <mj-text padding="0" align="center">Routeur Nighthawk WiFi 6</mj-text>
-        <mj-text padding="0" align="center">AX4200 (RAX43)</mj-text>
-        <mj-text padding="0" align="center">229.99€ 149.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Routeur Nighthawk WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX4200 (RAX43)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">229.99€ 149.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rax40.jpg" alt=""/>
-        <mj-text padding="0" align="center">Routeur Nighthawk WiFi 6</mj-text>
-        <mj-text padding="0" align="center">AX3000 (RAX40)</mj-text>
-        <mj-text padding="0" align="center">199.99€ 149.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Routeur Nighthawk WiFi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX3000 (RAX40)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">199.99€ 149.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
@@ -124,16 +124,16 @@
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/ex7700.jpg" alt=""/>
-        <mj-text padding="0" align="center">Répéteur WiFi Mesh Tri-band</mj-text>
-        <mj-text padding="0" align="center">AC2200 (EX7700)</mj-text>
-        <mj-text padding="0" align="center">114.99€ 89.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Répéteur WiFi Mesh Tri-band</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AC2200 (EX7700)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">114.99€ 89.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/ex7300.jpg" alt=""/>
-        <mj-text padding="0" align="center">Répéteur WiFi Mesh Dual-band</mj-text>
-        <mj-text padding="0" align="center">AC2200 (EX7300)</mj-text>
-        <mj-text padding="0" align="center">94.99€ 74.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Répéteur WiFi Mesh Dual-band</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AC2200 (EX7300)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">94.99€ 74.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
