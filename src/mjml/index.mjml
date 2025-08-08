@@ -16,8 +16,8 @@
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
       <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
-      <mj-class name="T26-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="400"/>
       <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="40px" font-weight="300"/>
+      <mj-class name="T26-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="30px" font-weight="500"/>
       <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T15-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="18px" font-weight="300"/>
       <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
@@ -53,12 +53,12 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
-      <mj-column width="100%"> 
-        <mj-text padding="0" align="center">Bénéficiez de -10% supplémentaire sur une sélection* de Routeurs mobiles.</mj-text>
-        <mj-text padding="0" align="center">Utilisez le CODE MOB10 à la validation.</mj-text>
+      <mj-column width="100%" mj-class="bgT1"> 
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Bénéficiez de -10% supplémentaire sur une sélection* de Routeurs mobiles.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Utilisez le CODE MOB10 à la validation.</mj-text>
       </mj-column>
       <mj-column width="100%">
-        <mj-text padding="0" align="center">Pour disposer de votre WiFi personnel et sécurisé, en France comme à l'étranger</mj-text>
+        <mj-text padding="0" align="center" mj-class="T26-500 cT1" letter-spacing="1px">Pour disposer de votre WiFi personnel et sécurisé, en France comme à l'étranger</mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/mr1100.jpg" alt=""/>
@@ -77,10 +77,10 @@
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
       <mj-column width="100%">
-        <mj-text padding="0" align="center">Economisez jusqu'à 35% sur cette sélection de produits</mj-text>
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Economisez jusqu'à 35% sur cette sélection de produits</mj-text>
       </mj-column>
       <mj-column width="100%">
-        <mj-text padding="0" align="center">Le meilleur WiFi, partout chez vous, en toute simplicité</mj-text>
+        <mj-text padding="0" align="center" mj-class="T26-500 cT1" letter-spacing="1px">Le meilleur WiFi, partout chez vous, en toute simplicité</mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk752.jpg" alt=""/>
@@ -101,7 +101,7 @@
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
       <mj-column width="100%">
-        <mj-text padding="0" align="center">Paramètrez votre WiFi comme vous le souhaitez</mj-text>
+        <mj-text padding="0" align="center" mj-class="T26-500 cT1" letter-spacing="1px">Paramètrez votre WiFi comme vous le souhaitez</mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rax43.jpg" alt=""/>
@@ -120,7 +120,7 @@
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
       <mj-column width="100%">
-        <mj-text padding="0" align="center">Etendez le WiFi de votre box</mj-text>
+        <mj-text padding="0" align="center" mj-class="T26-500 cT1" letter-spacing="1px">Etendez le WiFi de votre box</mj-text>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/ex7700.jpg" alt=""/>
@@ -138,8 +138,8 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
-      <mj-column padding="0" mj-class="bgW" width="100%">
-        <mj-text padding="0" align="center">Economisez jusqu'à 25% sur les systèmes Mesh Orbi Pro WiFi 6 Mini AX1800</mj-text>
+      <mj-column padding="0" mj-class="bgB" width="100%">
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Economisez jusqu'à 25% sur les systèmes Mesh Orbi Pro WiFi 6 Mini AX1800</mj-text>
         <mj-image padding="0" align="center" width="700px" src="./images/illustration2.jpg" alt=""/>
       </mj-column>
       <mj-column padding="0" mj-class="bgW" width="50%">
