@@ -53,25 +53,25 @@
       </mj-column>
     </mj-section>
     <mj-section>
-      <mj-column> 
-        <mj-text>Bénéficiez de -10% supplémentaire sur une sélection* de Routeurs mobiles.</mj-text>
-        <mj-text>Utilisez le CODE MOB10 à la validation.</mj-text>
+      <mj-column width="100%"> 
+        <mj-text padding="0" align="center">Bénéficiez de -10% supplémentaire sur une sélection* de Routeurs mobiles.</mj-text>
+        <mj-text padding="0" align="center">Utilisez le CODE MOB10 à la validation.</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-text>Pour disposer de votre WiFi personnel et sécurisé, en France comme à l'étranger</mj-text>
+      <mj-column width="100%">
+        <mj-text padding="0" align="center">Pour disposer de votre WiFi personnel et sécurisé, en France comme à l'étranger</mj-text>
       </mj-column>
-      <mj-column>
-        <mj-image src="./images/mr1100.jpg" alt=""/>
-        <mj-text>Routeur Mobile 4G</mj-text>
-        <mj-text>Gbit/s (MR1100)</mj-text>
-        <mj-text>309.99€ 279.99€</mj-text>
+      <mj-column width="50%">
+        <mj-image padding="0" align="center" width="275px" src="./images/mr1100.jpg" alt=""/>
+        <mj-text padding="0" align="center">Routeur Mobile 4G</mj-text>
+        <mj-text padding="0" align="center">Gbit/s (MR1100)</mj-text>
+        <mj-text padding="0" align="center">309.99€ 279.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
-      <mj-column>
-        <mj-image src="./images/ac810.jpg" alt=""/>
-        <mj-text>Hotspot Mobile 4G</mj-text>
-        <mj-text>600 Mbps (AC810)</mj-text>
-        <mj-text>219.99€</mj-text>
+      <mj-column width="50%">
+        <mj-image padding="0" align="center" width="275px" src="./images/ac810.jpg" alt=""/>
+        <mj-text padding="0" align="center">Hotspot Mobile 4G</mj-text>
+        <mj-text padding="0" align="center">600 Mbps (AC810)</mj-text>
+        <mj-text padding="0" align="center">219.99€</mj-text>
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
