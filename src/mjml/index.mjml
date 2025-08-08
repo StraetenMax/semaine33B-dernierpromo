@@ -52,7 +52,7 @@
         <mj-image padding="0" width="700px" src="./images/illustration1.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section padding="0" mj-class="bgW">
       <mj-column width="100%"> 
         <mj-text padding="0" align="center">Bénéficiez de -10% supplémentaire sur une sélection* de Routeurs mobiles.</mj-text>
         <mj-text padding="0" align="center">Utilisez le CODE MOB10 à la validation.</mj-text>
