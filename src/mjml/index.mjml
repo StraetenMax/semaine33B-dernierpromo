@@ -138,23 +138,31 @@
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
-      <mj-column padding="0" mj-class="bgB" width="100%">
+      <mj-column padding="25px 35px" mj-class="bgB" width="100%">
         <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Economisez jusqu'à 25% sur les systèmes Mesh Orbi Pro WiFi 6 Mini AX1800</mj-text>
+      </mj-column>
+      <mj-column width="100%">
         <mj-image padding="0" align="center" width="700px" src="./images/illustration2.jpg" alt=""/>
       </mj-column>
-      <mj-column padding="0" mj-class="bgW" width="50%">
+      <mj-column padding="10px" mj-class="bgW" width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/sxk30.jpg" alt=""/>
+        <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi Pro WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (SXK30) Jusqu'à 250 m2</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">299.99€ 224.99€</mj-text>
+        <mj-spacer height="20px"/>
         <mj-button>J'en profite</mj-button>
+        <mj-spacer height="40px"/>
       </mj-column>
-      <mj-column padding="0" mj-class="bgW" width="50%">
+      <mj-column padding="10px" mj-class="bgW" width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/sxk30b3.jpg" alt=""/>
+        <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi Pro WiFi 6</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (SXK30B3) Jusqu'à 375 m2</mj-text>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">399.99€ 299.99€</mj-text>
+        <mj-spacer height="20px"></mj-spacer>
         <mj-button>J'en profite</mj-button>
+        <mj-spacer height="40px"/>
       </mj-column>
     </mj-section>
     <mj-section padding="0">
