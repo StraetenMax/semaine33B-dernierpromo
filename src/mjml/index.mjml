@@ -55,7 +55,7 @@
     <mj-section padding="0" mj-class="bgW">
       <mj-column width="100%" padding="25px 35px" mj-class="bgT1"> 
         <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Bénéficiez de -10% supplémentaire sur une sélection* de Routeurs mobiles.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Utilisez le CODE MOB10 à la validation.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T25-300 cTW" letter-spacing="2px">Utilisez le CODE <span style="font-weight:700">MOB10</span> à la validation.</mj-text>
       </mj-column>
       <mj-column width="100%" padding="30px 60px 10px 60px">
         <mj-text padding="0" align="center" mj-class="T26-500 cT1" letter-spacing="1px">Pour disposer de votre WiFi personnel et sécurisé, en France comme à l'étranger</mj-text>
@@ -64,20 +64,20 @@
         <mj-image padding="0" align="center" width="275px" src="./images/mr1100.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Routeur Mobile 4G</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Gbit/s (MR1100)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">309.99€ 279.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="font-weight:700">1 Gbit/s</span> (MR1100)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="text-decoration:line-through;color:#ff0000;">309.99€</span> <span style="font-weight:700;color:#00a3de;">279.99€</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgT1">J'en profite</mj-button>
         <mj-spacer height="40px"/>
       </mj-column>
       <mj-column width="50%" padding="10px">
         <mj-image padding="0" align="center" width="275px" src="./images/ac810.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Hotspot Mobile 4G</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">600 Mbps (AC810)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">219.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="font-weight:700">600 Mbps</span> (AC810)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="font-weight:700;color:#00a3de;">219.99€</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgT1">J'en profite</mj-button>
         <mj-spacer height="40px"/>
       </mj-column>
     </mj-section>
@@ -92,22 +92,22 @@
         <mj-image padding="0" align="center" width="275px" src="./images/rbk752.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">WiFi 6 Tri-band AX4200</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Jusqu'à 350 m2 (RBK752)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">499.99€ 379.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">WiFi 6 Tri-band <span style="font-weight:700">AX4200</span></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Jusqu'à <span style="font-weight:700">350 m<sup style="font-size:10px;line-height:0;font-weight:700">2</sup></span> (RBK752)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="text-decoration:line-through;color:#ff0000;">499.99€</span> <span style="font-weight:700;color:#00a3de;">379.99€</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="40px"/>
       </mj-column>
       <mj-column width="50%" padding="10px" mj-class="bgW">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk753.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">WiFi 6 Tri-band AX4200</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Jusqu'à 525 m2 (RBK753)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">699.99€ 559.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">WiFi 6 Tri-band <span style="font-weight:700">AX4200</span></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Jusqu'à <span style="font-weight:700">525 m<sup style="font-size:10px;line-height:0;font-weight:700">2</sup></span> (RBK753)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="text-decoration:line-through;color:#ff0000;">699.99€</span> <span style="font-weight:700;color:#00a3de;">559.99€</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="40px"/>
       </mj-column>
     </mj-section>
@@ -122,20 +122,21 @@
         <mj-image padding="0" align="center" width="275px" src="./images/rax43.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Routeur Nighthawk WiFi 6</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX4200 (RAX43)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">229.99€ 149.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="font-weight:700">AX4200</span> (RAX43)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="text-decoration:line-through;color:#ff0000;">229.99€</span> <span style="font-weight:700;color:#00a3de;">149.99€</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="40px"/>
       </mj-column>
       <mj-column width="50%" padding="10px" mj-class="bgW">
         <mj-image padding="0" align="center" width="275px" src="./images/rax40.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Routeur Nighthawk WiFi 6</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX3000 (RAX40)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">199.99€ 149.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="font-weight:700">AX3000</span> (RAX40)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="text-decoration:line-through;color:#ff0000;">199.99€</span> <span style="font-weight:700;color:#00a3de;">149.99€</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
+        <mj-spacer height="40px"/>
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
@@ -149,20 +150,20 @@
         <mj-image padding="0" align="center" width="275px" src="./images/ex7700.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Répéteur WiFi Mesh Tri-band</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AC2200 (EX7700)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">114.99€ 89.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="font-weight:700">AC2200</span> (EX7700)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="text-decoration:line-through;color:#ff0000;">114.99€</span> <span style="font-weight:700;color:#00a3de;">89.99€</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="40px"/>
       </mj-column>
       <mj-column width="50%" padding="10px" mj-class="bgW">
         <mj-image padding="0" align="center" width="275px" src="./images/ex7300.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Répéteur WiFi Mesh Dual-band</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AC2200 (EX7300)</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">94.99€ 74.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="font-weight:700">AC2200</span> (EX7300)</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="text-decoration:line-through;color:#ff0000;">94.99€</span> <span style="font-weight:700;color:#00a3de;">74.99€</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="40px"/>
       </mj-column>
     </mj-section>
@@ -177,20 +178,20 @@
         <mj-image padding="0" align="center" width="275px" src="./images/sxk30.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi Pro WiFi 6</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (SXK30) Jusqu'à 250 m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">299.99€ 224.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="font-weight:700">AX1800</span> (SXK30) Jusqu'à <span style="font-weight:700">250 m<sup style="font-size:10px;line-height:0;font-weight:700">2</sup></span></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="text-decoration:line-through;color:#ff0000;">299.99€</span> <span style="font-weight:700;color:#00a3de;">224.99€</span></mj-text>
         <mj-spacer height="20px"/>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="40px"/>
       </mj-column>
       <mj-column padding="10px" mj-class="bgW" width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/sxk30b3.jpg" alt=""/>
         <mj-spacer height="10px"/>
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi Pro WiFi 6</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">AX1800 (SXK30B3) Jusqu'à 375 m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">399.99€ 299.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="font-weight:700">AX1800</span> (SXK30B3) Jusqu'à <span style="font-weight:700">375 m<sup style="font-size:10px;line-height:0;font-weight:700">2</sup></span></mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><span style="text-decoration:line-through;color:#ff0000;">399.99€</span> <span style="font-weight:700;color:#00a3de;">299.99€</span></mj-text>
         <mj-spacer height="20px"></mj-spacer>
-        <mj-button>J'en profite</mj-button>
+        <mj-button mj-class="bgB">J'en profite</mj-button>
         <mj-spacer height="40px"/>
       </mj-column>
     </mj-section>
